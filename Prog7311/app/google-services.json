@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778741991033",
+    "project_id": "firebasics-4b665",
+    "storage_bucket": "firebasics-4b665.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778741991033:android:1b287b1bba0e6bba5e36a8",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.prog7311"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdHPJG5Co7wYT2ErRmJCy6h9PHqag2rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
